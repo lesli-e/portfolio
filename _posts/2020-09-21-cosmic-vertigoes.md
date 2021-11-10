@@ -11,8 +11,10 @@ img:
 tags:
   - narration
   - essai
-  - art-science
+  - recherche-création
 ---
+
+Conception : [Lucas Friche](https://rosenrips.itch.io/), [Martin Ringot](https://martinrgt.itch.io/), Leslie Astier
 
 Ces trois promenades sont nées de l'envie, au final logique, de mettre des nouvelles d'Italo Calvino en interaction. Sous l'oeil bienveillant de Martin Ringot, docteur en études italiennes, nous avons pris le partie de transcrire *La distance à la lune*, *Un panneau dans l'espace* et *La forme de l'espace*.
 

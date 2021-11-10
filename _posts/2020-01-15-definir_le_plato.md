@@ -13,7 +13,9 @@ tags:
 
 5 personnes placées sur un plateau dans l'espace qui vont venir interagir de manière à faire émerger une forme sonore composite faite de pleins et de vides, de sons et de sens, d'évocations poétiques et de références à des univers extérieurs mais également de connexions. Chaque élément apporté par chaque participant sera manipulé et déployé en live et en lien les uns avec les autres et notre présence est médiée par un micro, des casques et des ordinateurs peuplés d'instruments.
 
-(image: defplato03.jpeg)
+```markdown
+![PLATO](/img/defplato03.jpeg)
+```
 
 Ce que nous sommes en train de faire c'est d'essayer d'établir un plateau. Une possible définition : un espace ou une surface sensible tendue entre plusieurs points qui peuvent être d'ordre théorique ou pratique, qui peuvent être des points narratifs et cette surface tendue va service de réceptacle aux personnes en présence et d'aire de déplacement.
 

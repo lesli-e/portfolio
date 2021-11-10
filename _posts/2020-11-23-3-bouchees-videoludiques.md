@@ -8,7 +8,7 @@ img:
   - Bouchee1.gif
   - Bouchee2.gif
 tags:
-  - essai
+  - recherche-création
   - jeu du réel
   - fantôme
 ---

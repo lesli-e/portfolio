@@ -2,7 +2,7 @@
 layout:		  post
 title:  	  "Limbes"
 where:      "Patio du bois de l'aune, Aix-en-Provence puis en ligne"
-who:        "Membres du Pang Pang Club"
+who:        "Velvet Aubry, Crasse, Lucas Friche, Flore Garcia, korgen "
 categories: concevoir
 description: >
   La gamejam *Limbes* était organisée dans le cadre de l'événement *Digital Dérives*. Reprenant les méthodologies de travail du Club, la thématique joue du contexte particulier à la pandémie, suspendu entre plusieurs espaces, en transition vers des devenir incertains.
@@ -14,6 +14,14 @@ tags:
   - collaboration
   - gamejam
 ---
+
+Chef.fe de projet : Leslie Astier
+
+Participant.e.s : Velvet Aubry, Leslie Astier, Crasse, Lucas Friche, Flore Garcia, korgen, Robin Moretti
+
+Soutiens : [M2F Créations](https://www.cnap.fr/lab-gamerz-0), DRAC Paca
+
+Quand : 31 octobre au 30 novembre 2020
 
 Purgatoire, zone d'accueil ou zone d'exil, les limbes sont un non-lieu, un espace impossible dans lequel le Pang Pang Club a décidé de s'installer pour vous accueillir. Prenant le temps de se rencontrer dans ce flottement, nous créerons des jeux à cheval sur plusieurs espaces. Dans cette rencontre spectrale, le Club vous propose de construire vos jeux et peut-être partager vos espaces de transits, vos zones de flottement. 
 
