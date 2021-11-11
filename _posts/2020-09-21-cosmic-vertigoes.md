@@ -5,7 +5,7 @@ who:	"Martin Ringot et Lucas Friche"
 categories: jouer
 permalink:  :categories/:title.html
 description: >
-  3 promenades courtes baignées dans l'espace inspirées des *Cosmicomics* d'Italo Calvino.
+  3 promenades courtes baignées dans l'espace inspirées des <em>Cosmicomics</em> d'Italo Calvino.
 img:
   - Cosmic1.gif
 tags:

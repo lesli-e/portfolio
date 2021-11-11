@@ -3,7 +3,7 @@ layout:     post
 title:      "La gamejam comme espace de rencontres"
 categories: experimenter
 description: >
-  Transcription de ma présentation faite à l'occasion du Symposium i3 - *Inclusion, Intersectionnalité, équité Intergénérationnelles : le passé et l’avenir*organisé par l'Université de Montréal.
+  Transcription de ma présentation faite à l'occasion du Symposium i3 - <em>Inclusion, Intersectionnalité, équité Intergénérationnelles : le passé et l’avenir</em> organisé par l'Université de Montréal.
 tags:
   - recherche-création
   - gamejam

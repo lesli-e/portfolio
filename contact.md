@@ -5,8 +5,8 @@ categories: footer
 permalink: 	/footer/contact.html
 ---
 
-[Compte Twitter](https://twitter.com)
+[Compte Twitter](https://twitter.com/lesli__e)
 
-[Page itch.io](https://itch.io)
+[Page itch.io](https://leslieastier.itch.io)
 
-Adresse mail : leslie.astier@machin.com
+Adresse mail : leslie.as [@] protonmail.com
