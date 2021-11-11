@@ -8,7 +8,7 @@ description: >
   Concert narratif polyphonique durant lequel narratrices et musicien.nes improvisaient un univers et ses contours.
 img:
   - Transatlas1.jpg
-  - Transatlas2.jpg
+  - Transatlas2.JPG
   - Transatlas3.jpg
 tags:
   - performance

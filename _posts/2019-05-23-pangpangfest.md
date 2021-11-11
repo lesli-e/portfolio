@@ -8,9 +8,9 @@ description: >
   Festival organisé à l'occasion du premier anniversaire du Pang Pang Club proposant des stands de jeux, des performances et des ateliers de création.
 enddate: 25.05.2019
 img:
-  - Fest1.jpg
-  - Fest2.jpg
-  - Fest3.jpg
+  - Fest1.JPG
+  - Fest2.JPG
+  - Fest3.JPG
   - Fest4.jpg
 tags:
   - club
