@@ -7,6 +7,7 @@ categories: concevoir
 permalink: 	:categories/:title.html
 description: >
   Cinq jours de création et de réflexion autour des pratiques art-sciences. Construction de prototypes jouables.
+enddate: 19.09.22
 img:
   - Aire1.jpg
   - Aire2.jpg

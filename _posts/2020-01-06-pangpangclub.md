@@ -6,6 +6,7 @@ categories: concevoir
 permalink: 	:categories/:title.html
 description: >
   Club de création de jeux et artefacts ludiques. Ouvert à tou.t.e créateurice prête à mettre en commun ses méthodologies et perspectives de travail. Le Club se rassemble pour organiser et participer à des gamejams
+enddate: en cours
 img:
   - PangPang1.jpg
   - PangPang2.jpg

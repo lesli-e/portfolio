@@ -6,12 +6,12 @@ who:        "Robin Moretti, Théo Goedert, Douglas E. Stanley, r∆∆dio c∆�
 categories: concevoir
 description: >
   Festival organisé à l'occasion du premier anniversaire du Pang Pang Club proposant des stands de jeux, des performances et des ateliers de création.
+enddate: 25.05.2019
 img:
   - Fest1.jpg
   - Fest2.jpg
   - Fest3.jpg
   - Fest4.jpg
-##  - Fest5.tiff
 tags:
   - club
   - collaboration
@@ -22,7 +22,7 @@ Porteur du projet :  [Robin Moretti](http://robinmoretti.eu)
 
 Curation et organisation : [Robin Moretti](http://robinmoretti.eu), [Théo Goedert](http://shimsham.co), Leslie Astier
 
-Intervenant.e.s : [Douglas E. Stanley](https://abstractmachine.net/), [r∆∆dio c∆∆rgo](https://www.raadiocaargo.com/), Ludmila Postel, Mitchell Herrmann
+Intervenant.e.s : [Douglas E. Stanley](https://abstractmachine.net/), [r∆∆dio c∆∆rgo](https://www.raadiocaargo.com/), Lola Dubus, Ludmila Postel, Mitchell Herrmann
 
 Soutiens : [M2F Créations](https://www.cnap.fr/lab-gamerz-0), DRAC Paca, La Méjanes
 

@@ -6,6 +6,7 @@ who:        "Velvet Aubry, Crasse, Lucas Friche, Flore Garcia, korgen "
 categories: concevoir
 description: >
   La gamejam *Limbes* était organisée dans le cadre de l'événement *Digital Dérives*. Reprenant les méthodologies de travail du Club, la thématique joue du contexte particulier à la pandémie, suspendu entre plusieurs espaces, en transition vers des devenir incertains.
+enddate: 20.11.30
 img:
   - Limbes1.png
   - Limbes2.jpg

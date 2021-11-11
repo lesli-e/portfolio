@@ -5,9 +5,9 @@ categories: jouer
 description: >
   Installation interactive permettant de franchir les barrières de la fiction. Conçue et réalisée avec Robin Moretti.
 img:
-  - metalepse1.jpg
-  - metalepse2.jpg
-  - metalepse3.jpg
+  - Metalepse1.jpg
+  - Metalepse2.jpg
+  - Metalepse3.jpg
 tags:
   - narration
   - franchissement
