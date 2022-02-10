@@ -14,7 +14,9 @@ permalink: 	/footer/cv.html
 
 ## Expositions collectives récentes 
 
-* *SearchBar #2*, Galerie de l’ÉSAD Orléans, octobre-décembre 2021
+* *SearchBar #3. Ajouter un raccourci*, Galerie de l’ÉSAD Orléans, février 2022
+* *Le monde d'après*, exposition organisée par l'ÉSAAix sous le commissariat de Jill Gasparina, Château-Lacoste, février 2022
+* *SearchBar #2. Une exposition de l'ÉCOLab*, Galerie de l’ÉSAD Orléans, octobre-décembre 2021
 
 - *Uncool Memories #5*, Collégiale St-Pierre-le Puellier, Orléans mars-avril 2021
 
