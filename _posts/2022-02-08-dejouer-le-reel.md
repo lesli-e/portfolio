@@ -11,6 +11,10 @@ tags:
 
 ![](/img/ReelDunne.png)
 
+
+
+> lien vers le miro https://miro.com/welcomeonboard/eFBubnZLbjZmSUNlQnQxY3UweWJJQ2lTQlVZU3lEbEJSZHA0Z2xPcklRazhqV2RLS2JCQ2REVFhKQWVCU3NYYnwzNDU4NzY0NTE5Mjg1NzQwNDc4?invite_link_id=712155196197
+
 ### Fiction <--> Réalité
 
 > « At the core of this is a question of agency to manifest things that may not fit in acknowledge realities, supposed oddities, into the public: things that, by merely existing, could morph that public. To create fictions that are designed to flood into realities with a potency that will adjust these realities. [...]
