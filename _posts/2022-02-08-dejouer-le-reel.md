@@ -13,7 +13,7 @@ tags:
 
 
 
-> lien vers le miro https://miro.com/welcomeonboard/eFBubnZLbjZmSUNlQnQxY3UweWJJQ2lTQlVZU3lEbEJSZHA0Z2xPcklRazhqV2RLS2JCQ2REVFhKQWVCU3NYYnwzNDU4NzY0NTE5Mjg1NzQwNDc4?invite_link_id=712155196197
+> lien vers le miro (https://miro.com/welcomeonboard/eFBubnZLbjZmSUNlQnQxY3UweWJJQ2lTQlVZU3lEbEJSZHA0Z2xPcklRazhqV2RLS2JCQ2REVFhKQWVCU3NYYnwzNDU4NzY0NTE5Mjg1NzQwNDc4?invite_link_id=712155196197)
 
 ### Fiction <--> Réalité
 
