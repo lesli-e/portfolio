@@ -27,9 +27,9 @@ Maintenant joueureuse numérique, installe toi confortablement, pour les prochai
 
 
 
-<iframe width="700" height="400" src="https://www.youtube.com/embed/xSQZlcHlrIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5wAFIdrzUIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Diffusion en ligne du samedi 19 février 2022 10h au lundi 21 février 2022 10h
+#### La vidéo de la performance a été diffusée en ligne dans le cadre de l'exposition *Le monde d'après*
 
 
 

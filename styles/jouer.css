@@ -18,7 +18,7 @@ main {
 .card {
 	position: relative;
 	transition: all 0.4s ease;
-	margin: 1.5em;
+	margin: 1.4em;
 	--lh: 1.2rem;
   	line-height: var(--lh);
 }
