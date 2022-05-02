@@ -4,7 +4,7 @@ title:      "Les deux mains dans la cendre"
 who:        "Crys Aslanian, James Leonard et Jérôme Villeneuve"
 categories: jouer
 description: >
-  Dans cette performance intitulée *Les deux mains dans la cendre*, quatre personnes jouent à un jeu intitulé *MOMMO* conçu par Crystal et Leslie. Ce tissage narratif et sonore est un jeu de métamorphose et de trans*formation, un jeu de perte et de renouveau, de dissolution et de partage.
+  Dans cette performance intitulée <em>Les deux mains dans la cendre</em>, quatre personnes jouent à un jeu intitulé <em>MOMMO</em> conçu par Crystal et Leslie. Ce tissage narratif et sonore est un jeu de métamorphose et de trans*formation, un jeu de perte et de renouveau, de dissolution et de partage.
 img:
   - Cendres1.png
   - Cendres2.png

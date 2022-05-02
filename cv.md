@@ -14,6 +14,7 @@ permalink: 	/footer/cv.html
 
 ## Expositions collectives récentes 
 
+* *Eniarof #32*, Les 8 Pillards, Marseille, avril 2022
 * *SearchBar #3. Ajouter un raccourci*, Galerie de l’ÉSAD Orléans, février 2022
 * *Le monde d'après*, exposition organisée par l'ÉSAAix sous le commissariat de Jill Gasparina, Château-Lacoste, février 2022
 * *SearchBar #2. Une exposition de l'ÉCOLab*, Galerie de l’ÉSAD Orléans, octobre-décembre 2021
@@ -28,10 +29,8 @@ permalink: 	/footer/cv.html
 
 ## Communications et publications récentes 
 
+- Astier Leslie, "Le jeu partagé comme dispositif de convocation spectrale" dans le cadre de l'événement scientifique *Pratiques Spectrales*, Université Paris 1 - Panthéon Sorbonne, 23 au 25 mars 2022
 - Astier Leslie, “Fabrication de jeux en Club : La gamejam comme espace de rencontres” présentation dans le cadre de la table ronde “Créations alternatives et détournements”, Symposium i3 - *Inclusion, Intersectionnalité, équité Intergénérationnelles : le passé et l’avenir*, organisé par l’Université de Montréal, en ligne, 28 septembre 2021
-
 - Astier Leslie, Friche Lucas, “C(h)asse à l’oeuf”, *Aberrations*, vol.1, mai 2021, pp.17-19
-
 - Aslanian Crys, Astier Leslie, Villeneuve Jérôme, Léonard James, “Intermediality as writing, collaborative gameplay and co-presence in rAAdio CAArgo’s approach”, The Intermedial Work of Art. Conception, Realisation, Performance, Reception, Preservation, organisé par l’Université Gustave-Eiffel (Paris), l’ENS Louis-Lumière (Montréal), l’Université Sorbonne (Paris), en ligne, 6, 7 et 8 novembre 2020
-
 - Astier Leslie, Goedert Théo, “Aires de Jeux: workshop de création de jeux”, *antiAtlas des Frontières*, septembre 2020, URL : [Aires de jeux: workshop de création de jeux - antiAtlas des frontières](https://www.antiatlas.net/aires-de-jeux-workshop-de-creation-de-jeux/)
