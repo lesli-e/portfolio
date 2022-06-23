@@ -12,8 +12,9 @@ permalink: 	/footer/cv.html
 
 2012 - 2014, Master 2 en Histoire de l’Art contemporain, « Images d’Orient, Reflets d’Occident :  Représentations du maghrébin dans les chromos français de 1860 à 1914 », Aix-Marseille Universités
 
-## Expositions collectives récentes 
+## Expositions collectives
 
+* Commissariat de l'exposition *Traversée·s Ephémère·s*, festival Watergame, organisé par voyons-voir, art contemporain et territoire et l'ESAAix, Jardins de Pavillon Vendôme, Aix-en-Provence, juin 2022
 * *Eniarof #32*, Les 8 Pillards, Marseille, avril 2022
 * *SearchBar #3. Ajouter un raccourci*, Galerie de l’ÉSAD Orléans, février 2022
 * *Le monde d'après*, exposition organisée par l'ÉSAAix sous le commissariat de Jill Gasparina, Château-Lacoste, février 2022
@@ -27,7 +28,13 @@ permalink: 	/footer/cv.html
 
 - *15ème Festival Gamerz*, Office du Tourisme, Aix-en-Provence, octobre 2019
 
-## Communications et publications récentes 
+## Zones de création librement constituées
+
+- *(Dé)Jouer le réel* série d'ateliers en collaboration avec Bérengère Voisin et Valérie Stiénon, La Gaîté Lyrique, Paris, de février à juin 2022
+- *Rencontres au Musée*, résidence de création en milieu scolaire, décembre 2021 à juin 2022, NMNM, Monaco
+- *Invocations* workshop en collaboration avec le PAD EMD, ESAD Orléans, septembre 2021
+
+## Communications et publications
 
 - Astier Leslie, "Le jeu partagé comme dispositif de convocation spectrale" dans le cadre de l'événement scientifique *Pratiques Spectrales*, Université Paris 1 - Panthéon Sorbonne, 23 au 25 mars 2022
 - Astier Leslie, “Fabrication de jeux en Club : La gamejam comme espace de rencontres” présentation dans le cadre de la table ronde “Créations alternatives et détournements”, Symposium i3 - *Inclusion, Intersectionnalité, équité Intergénérationnelles : le passé et l’avenir*, organisé par l’Université de Montréal, en ligne, 28 septembre 2021
