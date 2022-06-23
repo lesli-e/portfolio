@@ -30,7 +30,7 @@ permalink: 	/footer/cv.html
 
 ## Zones de création librement constituées
 
-- *(Dé)Jouer le réel* ,dispositif de co-création en collaboration avec Bérengère Voisin et Valérie Stiénon, La Gaîté Lyrique, Paris, de février à juin 2022
+- *(Dé)Jouer le réel*, dispositif de co-création en collaboration avec Bérengère Voisin et Valérie Stiénon, La Gaîté Lyrique, Paris, de février à juin 2022
 - *Rencontres au Musée*, résidence de création en milieu scolaire, décembre 2021 à juin 2022, NMNM, Monaco
 - *Invocations*, dispositif de co-création en collaboration avec le PAD EMD, ESAD Orléans, septembre 2021
 
