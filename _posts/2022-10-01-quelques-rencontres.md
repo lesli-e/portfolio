@@ -6,7 +6,7 @@ description: >
   Dans ce musée imaginaire composé à plusieurs mains, des élèves nous racontent les rencontres qu'iels aimeraient faire au détour de salles de musée.
 img:
   - rencontres1.png
-  - rencontes2.gif
+  - rencontres2.gif
   - rencontres3.gif
   - rencontres4.jpg
 tags:
