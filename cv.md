@@ -14,6 +14,8 @@ permalink: 	/footer/cv.html
 
 ## Expositions collectives
 
+* *Disco, Parking, Panique*, Pang Pang Club x Game Impact, en ligne, novembre 2023
+* *Game Over. Esthétique du jeu*, Musée Suisse du Jeu, juillet 2023 - janvier 2024
 * *Spawn Festival*, CNAM ENJMIN, avril 2023
 * *Game over. Play Forever*, Le Quartier Général, La Chaux-de-Fonds, mars-avril 2023
 * Commissariat de l'exposition *Traversée·s Ephémère·s*, festival Watergame, organisé par voyons-voir, art contemporain et territoire et l'ESAAix, Jardins de Pavillon Vendôme, Aix-en-Provence, juin 2022
@@ -40,6 +42,7 @@ permalink: 	/footer/cv.html
 
 ## Communications et publications
 
+- Astier Leslie, "Making Stories Together - game practicing at the Pang Pang Club", Colloque *Playing With Stories That Matter*, HEAD - Genève, 12 octobre 2023.
 - Astier Leslie, *Ghost As Airport Stories*, édition Hyphe, Dôle, 2022.
 - Astier Leslie, "Bitsy et les pratiques in-ter-dépendantes. Publication, Relation, Diffusion", Séminaire *Input, Poke, Save*, 27 octobre 2022.
 - Astier Leslie, "Les Bitsys de moins d'une minute : un espace de recherche-création relationnel" dans le cadre du colloque *Ces Petites Choses Vidéoludiques*, Université Lyon 3, 6 et 7 octobre 2022
