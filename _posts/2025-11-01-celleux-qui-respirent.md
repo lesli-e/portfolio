@@ -4,13 +4,13 @@ title:      "Celleux qui respirent dans la nuit"
 who:        "Inès Rabadán"
 categories: jouer
 description: >
-  Celleux qui respirent dans la nuit est un docu-récit interactif qui part à la recherche de manières dont les mort·es essaient de collaborer avec les vivant·es.
+  "Celleux qui respirent dans la nuit" est un docu-récit interactif qui part à la recherche de manières dont les mort·es essaient de collaborer avec les vivant·es.
 img:
   - celleux1.png
-  - celleux2.jpeg
-  - celleux3.jpeg
+  - celleux2.jpg
+  - celleux3.jpg
   - celleux4.png
-  - celleux5.jpg
+  - celleux5.png
   - celleux6.jpg
   - celleux7.png
 tags:

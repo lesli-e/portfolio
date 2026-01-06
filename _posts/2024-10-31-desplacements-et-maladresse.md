@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "de(s)placements et maladresse : quatre ans à jouer de travers"
+title:      "de(s)placements et mal⸱adresse | quatre ans à jouer de travers"
 who:        
 categories: jouer
 description: >
-  L'exposition "de(s)placements et maladresse" visait par une sélection de jeux à penser le jeu comme un endroit awkward, un lieu du faire à l'envers qui permet de penser le politique, le poétique et le bizarre du petit jeu sans but.
+  L'exposition "de(s)placements et mal⸱adresse" visait par une sélection de jeux à penser le jeu comme un endroit awkward, un lieu du faire à l'envers qui permet de penser le politique, le poétique et le bizarre du petit jeu sans but.
 img:
   - desplacements1.jpg
   - desplacements2.jpg

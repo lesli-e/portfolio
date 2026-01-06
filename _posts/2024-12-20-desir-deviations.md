@@ -9,9 +9,11 @@ tags:
   - curation
 ---
 
-![](/img/deviation.jpg)
+![](/img/deviation1.jpg)
 
-​    **viations
+ 
+
+   **viations
    /
 dé
    \

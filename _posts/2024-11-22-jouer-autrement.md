@@ -6,7 +6,7 @@ who:        "le Pang Pang Club et les étudiant⸱e⸱xs de l'EsaAix"
 enddate:    2024-11-30
 categories: concevoir
 description: >
-   *Jouer autrement* une gamejam et une mise en espace de jeux sous forme d’installation immersive, afin de donner de la place au jeu expérimental, au jeu introspectif, poétique, collaboratif…
+   "Jouer autrement" une gamejam et une mise en espace de jeux sous forme d’installation immersive, afin de donner de la place au jeu expérimental, au jeu introspectif, poétique, collaboratif…
 img:
   - autrement1.jpg
   - autrement2.jpg
