@@ -9,7 +9,7 @@ tags:
   - curation
 ---
 
-![](/img/deviation1.jpg)
+![](/img/deviation1.JPG)
 
 **Pour clôturer la Biennale au MÉDIALAB, Leslie Astier et Chloé Desmoineaux, artistes et développeureuxes de jeux expérimentaux, interrogent le plaisir de jouer : pourquoi joue-t-on, pour qui, et que gagne-t-on à jouer en dehors des sentiers battus ?** 
 
