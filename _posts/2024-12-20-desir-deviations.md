@@ -11,14 +11,6 @@ tags:
 
 ![](/img/deviation1.jpg)
 
- 
-
-   **viations
-   /
-dé
-   \
-   sir
-**
 **Pour clôturer la Biennale au MÉDIALAB, Leslie Astier et Chloé Desmoineaux, artistes et développeureuxes de jeux expérimentaux, interrogent le plaisir de jouer : pourquoi joue-t-on, pour qui, et que gagne-t-on à jouer en dehors des sentiers battus ?** 
 
 L’acte de jouer autrement décèle un potentiel de subversion, de diversion et de détournement qui ouvre des espaces de possibles. Il ne s’agit plus de suivre des règles figées ou d’atteindre des objectifs imposés, mais bien d’éprouver le plaisir de transformer les normes, de questionner les attentes, de renverser les standards.
