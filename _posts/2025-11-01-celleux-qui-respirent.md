@@ -7,12 +7,12 @@ description: >
   Celleux qui respirent dans la nuit est un docu-récit interactif qui part à la recherche de manières dont les mort·es essaient de collaborer avec les vivant·es.
 img:
   - celleux1.png
-  - celleux2.jpg
-  - celleux3.jpg
-  - celleux4.jpg
+  - celleux2.jpeg
+  - celleux3.jpeg
+  - celleux4.png
   - celleux5.jpg
   - celleux6.jpg
-  - celleux7.jpg
+  - celleux7.png
 tags:
   - narration
   - co-création
