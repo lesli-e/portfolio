@@ -73,14 +73,11 @@ main .subby p a {
 	transition: filter .6s ease;
 }
 
-.category .myMiniature {
+.myMiniature {
 	position: absolute;
 	top: 0;
-	width: 50%;
-	height: 50%;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: contain;
+	width: 5em;
+	position: center;
 	transition: filter .6s ease;
 }
 
