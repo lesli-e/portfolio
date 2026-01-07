@@ -33,7 +33,7 @@ article {
 
 	article p img {
 		max-width: 100%;
-		min-width: 35%;
+		/*min-width: 35%;*/
 		margin: auto;
 		display: block;
 	}

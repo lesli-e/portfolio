@@ -74,10 +74,8 @@ main .subby p a {
 }
 
 .myMiniature {
-	position: absolute;
-	top: 0;
-	width: 5em;
-	position: center;
+	width: 4vw;   /* 1/20 de la largeur de l’écran */
+ 	height: auto;
 	transition: filter .6s ease;
 }
 
