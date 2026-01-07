@@ -74,9 +74,8 @@ main .subby p a {
 }
 
 .myMiniature {
-	width: 4vw;   /* 1/20 de la largeur de l’écran */
+	width: 10vw;   /* 1/20 de la largeur de l’écran */
  	height: auto;
-	transition: filter .6s ease;
 }
 
 	.category h2 {
