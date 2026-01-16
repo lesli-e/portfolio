@@ -45,9 +45,9 @@ main .subby p a {
 }
 
 .myMiniature {
-	height: 15vw;   /* 1/20 de la largeur de l’écran */
- 	width: auto;
- 	animation: slowblurInOut 5s ease-in-out infinite;
+	height: auto;   /* 1/20 de la largeur de l’écran */
+ 	width: 20vw;
+ 	animation: slowblurInOut 10s ease-in-out infinite;
 }
 
 @keyframes slowblurInOut {
@@ -55,7 +55,7 @@ main .subby p a {
     filter: blur(0px);
   }
   50% {
-    filter: blur(6px);
+    filter: blur(3px);
   }
   100% {
     filter: blur(0px);
