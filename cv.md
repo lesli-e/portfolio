@@ -6,7 +6,7 @@ permalink: 	/footer/cv.html
 ---
 
 ## Formation ##
-2020 - 2022, Post-diplôme de deux ans autour des "Emergences ludiques situées : le jeu expérimental comme fictions et vécus praticables", au sein de l’ÉCOLab de l’ÉSAD Orléans
+2020 - 2024, DSRD (Diplôme Supérieur de Recherche en Design), PAD-EMD au sein de l’ÉCOLab de l’ÉSAD Orléans
 
 2017 - 2019, DNSEP (Diplôme National d'Enseignement Plastique) avec les Félicitations du Jury, École Supérieure d’Art d’Aix-en-Provence 
 
